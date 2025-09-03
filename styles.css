@@ -183,12 +183,12 @@ h2 {
 
 .alto-contraste .botao-inicio,
 .alto-contraste .formulario button,
-.alto-contraste .btn-primary{
+.alto-contraste .btn-btn warning{
     background-color: var(--alto-contraste-link);
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #tropicalia {
+.alto-contraste #Pokémon {
     background: none;
 }
 
